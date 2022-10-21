@@ -1,4 +1,4 @@
-name: Snyk IaC Report
+name: Snyk IaC Report Alena
 on:
   push:
     branches: [ master ]
